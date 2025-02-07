@@ -12,15 +12,15 @@ distributed platforms, and ensuring interpretability of clustering results.
 
 
 <h3>Methods</h3>
-# To solve the problem, we will use the following methods
-1. Data Collection: Using open datasets from Kaggle - Online Retail Data Set (
+<p>To solve the problem, we will use the following methods</p>
+<p>1. Data Collection: Using open datasets from Kaggle - Online Retail Data Set (
 dataset contains all purchases made for an online retail company based in the
-UK during an eight month period )
-2. Data Preprocessing: Cleaning, handling missing values, and deriving RFM
-metrics (Recency, Frequency, and Monetary value).
-3. Feature Engineering: Normalizing and preparing RFM features for clustering.
-4. K-Means Clustering: Implementing distributed K-Means clustering using
-platforms like Apache Spark to segment customers.
-5. Evaluation: Analyzing cluster quality using metrics like Silhouette Score and
-Davies-Bouldin Index and interpreting the clusters for marketing strategies.
+UK during an eight month period )</p>
+<p>2. Data Preprocessing: Cleaning, handling missing values, and deriving RFM
+metrics (Recency, Frequency, and Monetary value).</p>
+<p>3. Feature Engineering: Normalizing and preparing RFM features for clustering.</p>
+<p>4. K-Means Clustering: Implementing distributed K-Means clustering using
+platforms like Apache Spark to segment customers.</p>
+<p>5. Evaluation: Analyzing cluster quality using metrics like Silhouette Score and
+Davies-Bouldin Index and interpreting the clusters for marketing strategies.</p>
 
