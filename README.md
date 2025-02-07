@@ -1,6 +1,6 @@
 # Customer Segmentation Using RFM Analysis
 
-Introduction
+<h3>Introduction</h3>
 This project aims to develop a scalable customer segmentation system using RFM
 (Recency, Frequency, Monetary) analysis and K-Means clustering, leveraging open
 transactional datasets. Customer segmentation is a crucial task in marketing analytics
@@ -9,7 +9,9 @@ utilizing RFM metrics ( Recency, Frequency, and Monetary value ), we can group
 customers into meaningful segments based on their purchase behavior. The project will
 address challenges such as handling large datasets, scaling computations across
 distributed platforms, and ensuring interpretability of clustering results.
-Methods
+
+
+<h3>Methods</h3>
 To solve the problem, we will use the following methods
 1. Data Collection: Using open datasets from Kaggle - Online Retail Data Set (
 dataset contains all purchases made for an online retail company based in the
