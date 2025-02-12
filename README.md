@@ -12,7 +12,7 @@ distributed platforms, and ensuring interpretability of clustering results.
 
 
 <h3>Methods</h3>
-<p>To solve the problem, we will use the following methods</p>
+<p>To solve the problem, we will use the following methods:</p>
 <p>1. Data Collection: Using open datasets from Kaggle - Online Retail Data Set (
 dataset contains all purchases made for an online retail company based in the
 UK during an eight month period )</p>
